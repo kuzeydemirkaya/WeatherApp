@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  NeYapsak
-//
-//  Created by Kuzey Demirkaya on 10.04.2021.
-//
 
 import SwiftUI
 
@@ -127,3 +121,4 @@ struct MyButton: View {
             .cornerRadius(10)
     }
 }
+
